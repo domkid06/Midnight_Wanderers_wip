@@ -3,5 +3,5 @@ const CONFIG = {
     gameTitle: "Midnight Wanderers", // Game title (displayed in the browser tab)
     gameUrl: "https://z-team.itch.io/midnight-wanderers", // Link to the official game page
     linkText: "Midnight Wanderers on itch.io", // Text for the link
-    linkColor: "#F45E33" // Color for the link (hex code, color name, etc.)
+    linkColor: "#FFFFFF" // Color for the link (hex code, color name, etc.)
 };
